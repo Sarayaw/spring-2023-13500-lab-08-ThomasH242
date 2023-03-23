@@ -1,10 +1,10 @@
 * Spring 2023 - Lab 08
 
-* Last name:
+* Last name: Huang
 
-* First name:
+* First name: Thomas
 
-* GitHub username:
+* GitHub username: Thomash242
 
 * Notes:
 
